@@ -1,6 +1,6 @@
 {
   "name": "sc-hasher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Default hashing function used by sc-broker-cluster to map channel names to brokers",
   "main": "index.js",
   "scripts": {
